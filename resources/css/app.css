@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Tambahkan warna kustom sesuai identitas desainmu */
+@theme {
+  --color-navy-dark: #0a192f;
+  --color-gold-brown: #996515;
+}
